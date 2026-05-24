@@ -1,0 +1,16 @@
+id_pracownika,kategoria,kwota_transakcji,region
+1,Elektronika,3200.5,Północ
+2,Moda,450.0,Południe
+3,Elektronika,5400.0,Zachód
+4,Dom i Ogród,120.8,Północ
+5,Sport,890.0,Wschód
+6,Dom i Ogród,2300.1,Zachód
+7,Moda,710.0,Południe
+8,Elektronika,150.0,Północ
+9,Sport,3100.0,Wschód
+10,Elektronika,420.5,Zachód
+11,Moda,1650.0,Północ
+12,Dom i Ogród,95.0,Południe
+13,Luksusowe,12500.0,Centrum
+14,Sport,320.0,Wschód
+15,Elektronika,2150.0,Zachód

@@ -1,0 +1,11 @@
+dzial,region,liczba_transakcji,suma_transakcji,srednia_transakcja
+Dyrekcja,Centrum,1,12500.0,12500.0
+IT,Zachód,3,7970.5,2656.83
+IT,Północ,1,3200.5,3200.5
+Logistyka,Wschód,1,3100.0,3100.0
+Finanse,Zachód,1,2300.1,2300.1
+Marketing,Północ,1,1650.0,1650.0
+IT,Wschód,1,890.0,890.0
+Logistyka,Południe,1,710.0,710.0
+HR,Południe,1,450.0,450.0
+HR,Wschód,1,320.0,320.0
